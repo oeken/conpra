@@ -1,0 +1,4 @@
+3
+1plus12minus3
+5tothepowerof5minus3
+1minus8times5tothepowerof3
