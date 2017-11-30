@@ -1,0 +1,2 @@
+Case #1: 4 4 3 3 impossible
+Case #2: impossible impossible 9 8 8 impossible

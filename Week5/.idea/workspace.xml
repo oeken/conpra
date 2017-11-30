@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Week5" targetName="E" />
+      <config projectName="Week5" targetName="A" />
+      <config projectName="Week5" targetName="B" />
+      <config projectName="Week5" targetName="C" />
+      <config projectName="Week5" targetName="D" />
+      <config projectName="Week5" targetName="E_pr2" />
+      <config projectName="Week5" targetName="C_pr" />
+      <config projectName="Week5" targetName="A_pr" />
+      <config projectName="Week5" targetName="B_pr" />
+      <config projectName="Week5" targetName="E_pr" />
+      <config projectName="Week5" targetName="A_edmondskarp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b79a411-e82f-4a29-bc08-58ed09182c29" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>4</find>
+      <find>if</find>
+      <find>tie</find>
+      <find>ffMa</find>
+      <find>rowcol</find>
+      <find>INT_MAX</find>
+      <find>in</find>
+      <find>long_ma</find>
+      <find>%l</find>
+      <find>totaloutflow</find>
+      <find>max</find>
+      <find>%d</find>
+      <find>cout</find>
+      <find>int</find>
+      <find>explore</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>5</replace>
+      <replace>%l</replace>
+      <replace>%li</replace>
+      <replace>long</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/5A/5A_edmondskarp.cpp" />
+        <option value="$PROJECT_DIR$/5A/5A.cpp" />
+        <option value="$PROJECT_DIR$/5B/5B.cpp" />
+        <option value="$PROJECT_DIR$/5C/5C.cpp" />
+        <option value="$PROJECT_DIR$/5D/5D.cpp" />
+        <option value="$PROJECT_DIR$/5E/5E.cpp" />
+        <option value="$PROJECT_DIR$/5A/5A_pr.cpp" />
+        <option value="$PROJECT_DIR$/5B/5B_pr.cpp" />
+        <option value="$PROJECT_DIR$/5C/5C_pr.cpp" />
+        <option value="$PROJECT_DIR$/5E/5E_pr.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/5E/5E_pr2.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="816" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Week5" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Week5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Week5" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Week5" type="462c0819:PsiDirectoryNode" />
+              <item name="5C" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Week5" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Week5" type="462c0819:PsiDirectoryNode" />
+              <item name="5E" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.E_pr2">
+    <configuration name="A" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week5" TARGET_NAME="A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week5" RUN_TARGET_NAME="A">
+      <envs />
+    </configuration>
+    <configuration name="A_edmondskarp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week5" TARGET_NAME="A_edmondskarp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week5" RUN_TARGET_NAME="A_edmondskarp">
+      <envs />
+    </configuration>
+    <configuration name="A_pr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week5" TARGET_NAME="A_pr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week5" RUN_TARGET_NAME="A_pr">
+      <envs />
+    </configuration>
+    <configuration name="B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week5" TARGET_NAME="B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week5" RUN_TARGET_NAME="B">
+      <envs />
+    </configuration>
+    <configuration name="B_pr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week5" TARGET_NAME="B_pr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week5" RUN_TARGET_NAME="B_pr">
+      <envs />
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week5" TARGET_NAME="C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week5" RUN_TARGET_NAME="C">
+      <envs />
+    </configuration>
+    <configuration name="C_pr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week5" TARGET_NAME="C_pr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week5" RUN_TARGET_NAME="C_pr">
+      <envs />
+    </configuration>
+    <configuration name="D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week5" TARGET_NAME="D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week5" RUN_TARGET_NAME="D">
+      <envs />
+    </configuration>
+    <configuration name="E" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week5" TARGET_NAME="E" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week5" RUN_TARGET_NAME="E">
+      <envs />
+    </configuration>
+    <configuration name="E_pr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week5" TARGET_NAME="E_pr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week5" RUN_TARGET_NAME="E_pr">
+      <envs />
+    </configuration>
+    <configuration name="E_pr2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week5" TARGET_NAME="E_pr2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week5" RUN_TARGET_NAME="E_pr2">
+      <envs />
+    </configuration>
+    <list size="12">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.A" />
+      <item index="2" class="java.lang.String" itemvalue="Application.A_edmondskarp" />
+      <item index="3" class="java.lang.String" itemvalue="Application.A_pr" />
+      <item index="4" class="java.lang.String" itemvalue="Application.B" />
+      <item index="5" class="java.lang.String" itemvalue="Application.B_pr" />
+      <item index="6" class="java.lang.String" itemvalue="Application.C" />
+      <item index="7" class="java.lang.String" itemvalue="Application.C_pr" />
+      <item index="8" class="java.lang.String" itemvalue="Application.D" />
+      <item index="9" class="java.lang.String" itemvalue="Application.E" />
+      <item index="10" class="java.lang.String" itemvalue="Application.E_pr" />
+      <item index="11" class="java.lang.String" itemvalue="Application.E_pr2" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b79a411-e82f-4a29-bc08-58ed09182c29" name="Default" comment="" />
+      <created>1511517744877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511517744877</updated>
+      <workItem from="1511517746663" duration="38202000" />
+      <workItem from="1511700739905" duration="15822000" />
+      <workItem from="1511777194846" duration="23290000" />
+      <workItem from="1511879728568" duration="2908000" />
+      <workItem from="1511899920268" duration="10247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90469000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="808" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.119444445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24918033" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26494566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3442623" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49048913" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5A/5A.cpp</url>
+          <line>299</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5C/5C.cpp</url>
+          <line>272</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5C/5C.cpp</url>
+          <line>277</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5D/5D.cpp</url>
+          <line>323</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5B/5B_pr.cpp</url>
+          <line>236</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5B/5B_pr.cpp</url>
+          <line>263</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5A/5A_pr.cpp</url>
+          <line>279</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5A/5A_pr.cpp</url>
+          <line>258</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5A/5A_pr.cpp</url>
+          <line>273</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5A/5A_pr.cpp</url>
+          <line>251</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5C/5C_pr.cpp</url>
+          <line>281</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5C/5C_pr.cpp</url>
+          <line>289</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5C/5C_pr.cpp</url>
+          <line>259</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5C/5C_pr.cpp</url>
+          <line>180</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5C/5C_pr.cpp</url>
+          <line>175</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5E/5E_pr.cpp</url>
+          <line>358</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5E/5E_pr.cpp</url>
+          <line>349</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5E/5E_pr.cpp</url>
+          <line>357</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5E/5E.cpp</url>
+          <line>374</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5E/5E.cpp</url>
+          <line>368</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5E/5E.cpp</url>
+          <line>394</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5E/5E_pr.cpp</url>
+          <line>348</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5E/5E_pr2.cpp</url>
+          <line>337</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5E/5E_pr2.cpp</url>
+          <line>350</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5E/5E_pr2.cpp</url>
+          <line>371</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="170" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/5E/5E.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#968#1182#0" expanded="false" />
+            <element signature="e#1184#1540#0" expanded="false" />
+            <element signature="e#1542#5974#0" expanded="false" />
+            <element signature="e#5976#9888#0" expanded="false" />
+            <element signature="e#9892#10262#0" expanded="false" />
+            <element signature="e#10264#10813#0" expanded="false" />
+            <element signature="e#10817#11751#0" expanded="false" />
+            <element signature="e#11753#12463#0" expanded="false" />
+            <element signature="e#12467#13192#0" expanded="false" />
+            <element signature="e#13196#13415#0" expanded="false" />
+            <element signature="e#13676#14698#0" expanded="false" />
+            <element signature="e#14700#15850#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5E/5E_pr.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5661">
+          <caret line="333" column="41" lean-forward="false" selection-start-line="333" selection-start-column="41" selection-end-line="333" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+            <element signature="e#197#432#1" expanded="false" />
+            <element signature="e#2044#2400#0" expanded="false" />
+            <element signature="e#2402#5833#0" expanded="false" />
+            <element signature="e#5835#6115#0" expanded="false" />
+            <element signature="e#6117#6440#0" expanded="false" />
+            <element signature="e#6443#6782#0" expanded="false" />
+            <element signature="e#6784#7357#0" expanded="false" />
+            <element signature="e#7359#7713#0" expanded="false" />
+            <element signature="e#7715#7988#0" expanded="false" />
+            <element signature="e#7990#8424#0" expanded="false" />
+            <element signature="e#8426#9164#0" expanded="false" />
+            <element signature="e#9166#9856#0" expanded="false" />
+            <element signature="e#11117#12139#0" expanded="false" />
+            <element signature="e#13294#13452#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5E/5E.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="1" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <element signature="e#968#1182#0" expanded="false" />
+            <element signature="e#1184#1540#0" expanded="false" />
+            <element signature="e#1542#5974#0" expanded="false" />
+            <element signature="e#5976#9888#0" expanded="false" />
+            <element signature="e#9892#10262#0" expanded="false" />
+            <element signature="e#10264#10813#0" expanded="false" />
+            <element signature="e#10817#11751#0" expanded="false" />
+            <element signature="e#11753#12463#0" expanded="false" />
+            <element signature="e#12467#13192#0" expanded="false" />
+            <element signature="e#13196#13415#0" expanded="false" />
+            <element signature="e#13676#14698#0" expanded="false" />
+            <element signature="e#14700#15850#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5E/5E_pr.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+            <element signature="e#197#432#1" expanded="false" />
+            <element signature="e#2044#2400#0" expanded="false" />
+            <element signature="e#2402#5833#0" expanded="false" />
+            <element signature="e#5835#6115#0" expanded="false" />
+            <element signature="e#6117#6440#0" expanded="false" />
+            <element signature="e#6443#6782#0" expanded="false" />
+            <element signature="e#6784#7357#0" expanded="false" />
+            <element signature="e#7359#7713#0" expanded="false" />
+            <element signature="e#7715#7988#0" expanded="false" />
+            <element signature="e#7990#8424#0" expanded="false" />
+            <element signature="e#8426#9164#0" expanded="false" />
+            <element signature="e#9166#9856#0" expanded="false" />
+            <element signature="e#11117#12139#0" expanded="false" />
+            <element signature="e#13294#13452#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5D/5D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+            <element signature="e#172#688#1" expanded="false" />
+            <element signature="e#5781#6144#0" expanded="false" />
+            <element signature="e#6146#6674#0" expanded="false" />
+            <element signature="e#6678#7598#0" expanded="false" />
+            <element signature="e#7600#8297#0" expanded="false" />
+            <element signature="e#8301#9013#0" expanded="false" />
+            <element signature="e#9017#9233#0" expanded="false" />
+            <element signature="e#9460#11419#0" expanded="false" />
+            <element signature="e#11421#13550#0" expanded="false" />
+            <element signature="e#13553#13707#0" expanded="false" />
+            <element signature="e#13709#13943#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/5A/5A_edmondskarp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="380" column="22" lean-forward="true" selection-start-line="352" selection-start-column="0" selection-end-line="380" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5A/5A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="63" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="389" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+            <element signature="e#172#355#1" expanded="false" />
+            <element signature="e#1732#3039#0" expanded="false" />
+            <element signature="e#3041#4650#0" expanded="false" />
+            <element signature="e#4652#5015#0" expanded="false" />
+            <element signature="e#5615#6535#0" expanded="false" />
+            <element signature="e#8039#8248#0" expanded="false" />
+            <element signature="e#8580#9275#0" expanded="false" />
+            <element signature="e#9277#10100#0" expanded="false" />
+            <element signature="e#10103#10257#0" expanded="false" />
+            <element signature="e#10259#10493#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5C/5C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="166" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="371" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+            <element signature="e#819#1262#0" expanded="false" />
+            <element signature="e#3590#3953#0" expanded="false" />
+            <element signature="e#3955#4483#0" expanded="false" />
+            <element signature="e#4487#5407#0" expanded="false" />
+            <element signature="e#8892#9131#0" expanded="false" />
+            <element signature="e#9133#9459#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5D/5D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="73" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="509" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+            <element signature="e#172#688#1" expanded="false" />
+            <element signature="e#5781#6144#0" expanded="false" />
+            <element signature="e#6146#6674#0" expanded="false" />
+            <element signature="e#6678#7598#0" expanded="false" />
+            <element signature="e#7600#8297#0" expanded="false" />
+            <element signature="e#8301#9013#0" expanded="false" />
+            <element signature="e#9017#9233#0" expanded="false" />
+            <element signature="e#9460#11419#0" expanded="false" />
+            <element signature="e#11421#13550#0" expanded="false" />
+            <element signature="e#13553#13707#0" expanded="false" />
+            <element signature="e#13709#13943#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/new">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/memory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="1649" column="0" lean-forward="false" selection-start-line="1649" selection-start-column="0" selection-end-line="1649" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/algorithm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="2683" column="40" lean-forward="false" selection-start-line="2683" selection-start-column="40" selection-end-line="2683" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5E/5E_pushrelabel.cpp" />
+    <entry file="file://$PROJECT_DIR$/5B/5B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="234" column="5" lean-forward="true" selection-start-line="234" selection-start-column="5" selection-end-line="234" selection-end-column="5" />
+          <folding>
+            <element signature="e#878#1600#0" expanded="false" />
+            <element signature="e#2703#3066#0" expanded="false" />
+            <element signature="e#3068#3596#0" expanded="false" />
+            <element signature="e#3600#4520#0" expanded="false" />
+            <element signature="e#4522#5219#0" expanded="false" />
+            <element signature="e#5223#5935#0" expanded="false" />
+            <element signature="e#6693#7354#0" expanded="false" />
+            <element signature="e#7356#8138#0" expanded="false" />
+            <element signature="e#8141#8380#0" expanded="false" />
+            <element signature="e#8382#8708#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/vector">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="1467" column="0" lean-forward="false" selection-start-line="1467" selection-start-column="0" selection-end-line="1467" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5A/5A_pr.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="260" column="1" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="260" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+            <element signature="e#172#362#1" expanded="false" />
+            <element signature="e#701#920#0" expanded="false" />
+            <element signature="e#923#2331#0" expanded="false" />
+            <element signature="e#2333#3892#0" expanded="false" />
+            <element signature="e#3894#4233#0" expanded="false" />
+            <element signature="e#4235#4849#0" expanded="false" />
+            <element signature="e#4852#5206#0" expanded="false" />
+            <element signature="e#5208#5481#0" expanded="false" />
+            <element signature="e#5483#5917#0" expanded="false" />
+            <element signature="e#5919#6657#0" expanded="false" />
+            <element signature="e#6659#7349#0" expanded="false" />
+            <element signature="e#7352#7998#0" expanded="false" />
+            <element signature="e#8001#8202#0" expanded="false" />
+            <element signature="e#8205#8534#0" expanded="false" />
+            <element signature="e#8537#9246#0" expanded="false" />
+            <element signature="e#9248#10085#0" expanded="false" />
+            <element signature="e#10088#10246#0" expanded="false" />
+            <element signature="e#10248#10486#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5B/5B_pr.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="188" column="22" lean-forward="true" selection-start-line="188" selection-start-column="22" selection-end-line="188" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+            <element signature="e#667#886#0" expanded="false" />
+            <element signature="e#889#1616#0" expanded="false" />
+            <element signature="e#1618#2733#0" expanded="false" />
+            <element signature="e#2737#3076#0" expanded="false" />
+            <element signature="e#3078#3692#0" expanded="false" />
+            <element signature="e#3695#4049#0" expanded="false" />
+            <element signature="e#4051#4324#0" expanded="false" />
+            <element signature="e#4326#4760#0" expanded="false" />
+            <element signature="e#4762#5500#0" expanded="false" />
+            <element signature="e#5502#6192#0" expanded="false" />
+            <element signature="e#6195#6841#0" expanded="false" />
+            <element signature="e#6845#7064#0" expanded="false" />
+            <element signature="e#7609#8283#0" expanded="false" />
+            <element signature="e#8285#9080#0" expanded="false" />
+            <element signature="e#9083#9326#0" expanded="false" />
+            <element signature="e#9328#9658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5C/5C_pr.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#3726#4065#0" expanded="false" />
+            <element signature="e#4067#4640#0" expanded="false" />
+            <element signature="e#4642#4996#0" expanded="false" />
+            <element signature="e#4998#5271#0" expanded="false" />
+            <element signature="e#5273#5707#0" expanded="false" />
+            <element signature="e#5709#6447#0" expanded="false" />
+            <element signature="e#6449#7139#0" expanded="false" />
+            <element signature="e#7141#7787#0" expanded="false" />
+            <element signature="e#7789#8008#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5E/5E.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="397" column="23" lean-forward="false" selection-start-line="397" selection-start-column="23" selection-end-line="397" selection-end-column="23" />
+          <folding>
+            <element signature="e#968#1182#0" expanded="false" />
+            <element signature="e#1184#1540#0" expanded="false" />
+            <element signature="e#1542#5974#0" expanded="false" />
+            <element signature="e#5976#9888#0" expanded="false" />
+            <element signature="e#9892#10262#0" expanded="false" />
+            <element signature="e#10264#10813#0" expanded="false" />
+            <element signature="e#10817#11751#0" expanded="false" />
+            <element signature="e#11753#12463#0" expanded="false" />
+            <element signature="e#12467#13192#0" expanded="false" />
+            <element signature="e#13196#13415#0" expanded="false" />
+            <element signature="e#13676#14698#0" expanded="false" />
+            <element signature="e#14700#15850#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5E/5E_pr.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="357" column="36" lean-forward="false" selection-start-line="357" selection-start-column="36" selection-end-line="357" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+            <element signature="e#197#432#1" expanded="false" />
+            <element signature="e#2044#2400#0" expanded="false" />
+            <element signature="e#2402#5833#0" expanded="false" />
+            <element signature="e#5835#6115#0" expanded="false" />
+            <element signature="e#6117#6440#0" expanded="false" />
+            <element signature="e#6443#6782#0" expanded="false" />
+            <element signature="e#6784#7357#0" expanded="false" />
+            <element signature="e#7359#7713#0" expanded="false" />
+            <element signature="e#7715#7988#0" expanded="false" />
+            <element signature="e#7990#8424#0" expanded="false" />
+            <element signature="e#8426#9164#0" expanded="false" />
+            <element signature="e#9166#9856#0" expanded="false" />
+            <element signature="e#11117#12139#0" expanded="false" />
+            <element signature="e#13294#13452#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5E/5E_pr2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="348" column="15" lean-forward="true" selection-start-line="348" selection-start-column="15" selection-end-line="348" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#197#432#1" expanded="false" />
+            <element signature="e#2269#2625#0" expanded="false" />
+            <element signature="e#5361#5641#0" expanded="false" />
+            <element signature="e#5643#5966#0" expanded="false" />
+            <element signature="e#5969#6308#0" expanded="false" />
+            <element signature="e#6310#6883#0" expanded="false" />
+            <element signature="e#6885#7239#0" expanded="false" />
+            <element signature="e#7241#7514#0" expanded="false" />
+            <element signature="e#7516#7950#0" expanded="false" />
+            <element signature="e#7952#8690#0" expanded="false" />
+            <element signature="e#8692#9382#0" expanded="false" />
+            <element signature="e#11772#12794#0" expanded="false" />
+            <element signature="e#12796#13946#0" expanded="false" />
+            <element signature="e#13949#14107#0" expanded="false" />
+            <element signature="e#14109#14347#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
