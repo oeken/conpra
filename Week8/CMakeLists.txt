@@ -1,0 +1,22 @@
+cmake_minimum_required(VERSION 3.8)
+project(Week8)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(A 8A/8A.cpp)
+add_executable(B 8B/8B.cpp)
+add_executable(C 8C/8C.cpp)
+add_executable(D 8D/8D.cpp)
+add_executable(E 8E/8E.cpp)
+add_executable(E_knapsack 8E/8E_knapsack.cpp)
+add_executable(E_knapsack2 8E/8E_knapsack2.cpp)
+add_executable(E_knapsack3 8E/8E_knapsack3.cpp)
+
+set_target_properties(A PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../8A/)
+set_target_properties(B PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../8B/)
+set_target_properties(C PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../8C/)
+set_target_properties(D PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../8D/)
+set_target_properties(E PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../8E/)
+set_target_properties(E_knapsack PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../8E/)
+set_target_properties(E_knapsack2 PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../8E/)
+set_target_properties(E_knapsack3 PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../8E/)

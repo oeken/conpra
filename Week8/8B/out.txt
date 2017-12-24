@@ -1,0 +1,7 @@
+Case #1: 402
+Case #2: 267
+Case #3: 282
+Case #4: 239
+Case #5: 199
+Case #6: 128
+Case #7: 275

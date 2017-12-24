@@ -1,0 +1,20 @@
+cmake_minimum_required(VERSION 3.8)
+project(Week6)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(A 6A/6A.cpp)
+add_executable(B 6B/6B.cpp)
+add_executable(C 6C/6C.cpp)
+add_executable(D 6D/6D.cpp)
+add_executable(E 6E/6E.cpp)
+add_executable(F 6F/6F.cpp)
+add_executable(G 6G/6G.cpp)
+
+set_target_properties(A PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../6A/)
+set_target_properties(B PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../6B/)
+set_target_properties(C PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../6C/)
+set_target_properties(D PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../6D/)
+set_target_properties(E PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../6E/)
+set_target_properties(F PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../6F/)
+set_target_properties(G PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../6G/)

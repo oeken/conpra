@@ -1,0 +1,4 @@
+3
+1 10 500 Codeforces
+12 15 3000 HackerRank
+12 15 1000 OldNWERC
